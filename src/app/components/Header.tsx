@@ -55,7 +55,7 @@ const Header = () => {
                 >
                     <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
                 </svg>
-                <a href="tel:9824989238"  aria-label="Phone"
+                <a href="tel:9510803236"  aria-label="Phone"
                 ><svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="24"
@@ -72,7 +72,7 @@ const Header = () => {
                             d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"
                         ></path></svg></a>
                 <a
-                    href="https://wa.me/9824989238?text=Hi, How are you?"
+                    href="https://wa.me/9510803236?text=Hi, How are you?"
                     target="_blank"
                     aria-label="Whatsup"
                 >

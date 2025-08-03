@@ -13,21 +13,21 @@ const testimonials = [
     name: "Saatvik Nagpal",
     role: "Founder, EazyGrad",
     quote:
-      "Anurag is a talented, committed individual who will leave no stone unturned in his pursuit to provide with the best. His attention to detail and in-depth experience in the of web development is indeed commendable. He has exhibited exemplary skills in the field, and I hope to see all the great projects coming up!",
+      "Yash is a talented, committed individual who will leave no stone unturned in his pursuit to provide with the best. His attention to detail and in-depth experience in the of web development is indeed commendable. He has exhibited exemplary skills in the field, and I hope to see all the great projects coming up!",
   },
   {
     img: "/images/kira.webp",
     name: "Kira Bragg",
     role: "English Mentor",
     quote:
-      "Anurag was a wonderful developer to work with! He anticipated everything I need to consider for my website. He also went the extra mile and added details that I hadn't considered! He is helping my business grow, and I will definitely work with him again!",
+      "Yash was a wonderful developer to work with! He anticipated everything I need to consider for my website. He also went the extra mile and added details that I hadn't considered! He is helping my business grow, and I will definitely work with him again!",
   },
   {
     img: "/images/Srihari.webp",
     name: "Srihari Kestur",
     role: "Founder Harigurus",
     quote:
-      "I worked with Anurag to make my website. I am speechless by looking at his work ethic and dedication. Working with him was the best decision I made.",
+      "I worked with Yash to make my website. I am speechless by looking at his work ethic and dedication. Working with him was the best decision I made.",
   },
 ];
 
