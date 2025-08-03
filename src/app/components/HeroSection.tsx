@@ -19,7 +19,7 @@ const HeroSection = () => {
             <div className="absolute inset-0 hidden md:block" id="wrapper-canvas"></div>
             <div className="flex -mt-10 relative">
                 <div className="w-full px-4 max-w-screen-xl mx-auto">
-                    <Image src="/icons/y_logo.png" width={100} height={100} alt="name logo" className="absolute left-[40%] top-[-90%] w-[300px] sm:w-[400px] md:w-[650px]" />
+                    <Image src="/icons/y_logo.png" width={100} height={100} alt="name logo" className="absolute left-[10%] md:left-[15%] xl:left-[40%] top-[-90%] w-[300px] sm:w-[400px] md:w-[650px]" />
                     <div className="relative ml-4 md:ml-12">
                         <h1
                             className="pointer-events-none text-4xl md:text-[64px] mr-12 font-bold"
