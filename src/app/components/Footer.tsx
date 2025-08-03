@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import React from 'react'
 
 const Footer = () => {
@@ -5,38 +6,7 @@ const Footer = () => {
  <footer className="flex flex-col items-center pb-10">
         <p className="text-xs text-gray-300">Yash Makwana © 2025</p>
         <div className="black-logo my-4">
-          <svg
-            width="50"
-            height="50"
-            viewBox="0 0 406 368"
-            fill="none"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <path
-              d="M314.899 203.5L314.899 349.43L162.5 209.053M314.899 203.5L283.037 203.586M314.899 203.5L337.881 203.586L381 171.109L314.899 171.109M162.5 209.053L118.044 170.96L157.5 171.109M162.5 209.053L65.5 301.465L20.5595 301.465L137.482 189.156M200.5 171.109L283.037 96.5L283.037 171.109M200.5 171.109L283.037 171.109M200.5 171.109L157.5 171.109M283.037 203.586L210.846 203.123L283.037 271.086L283.037 203.586ZM283.037 171.109L314.899 171.109M157.5 171.109L316.135 20.4322L314.899 171.109"
-              stroke="#1F2667"
-              strokeOpacity="0.9"
-              strokeWidth="16"
-            ></path>
-            <path
-              d="M314.899 203.5L314.899 349.43L162.5 209.053M314.899 203.5L283.037 203.586M314.899 203.5L337.881 203.586L381 171.109L314.899 171.109M162.5 209.053L118.044 170.96L157.5 171.109M162.5 209.053L65.5 301.465L20.5595 301.465L137.482 189.156M200.5 171.109L283.037 96.5L283.037 171.109M200.5 171.109L283.037 171.109M200.5 171.109L157.5 171.109M283.037 203.586L210.846 203.123L283.037 271.086L283.037 203.586ZM283.037 171.109L314.899 171.109M157.5 171.109L316.135 20.4322L314.899 171.109"
-              stroke="url(#paint0_linear)"
-              strokeWidth="16"
-            ></path>
-            <defs>
-              <linearGradient
-                id="paint0_linear"
-                x1="205.549"
-                y1="20.0169"
-                x2="204.338"
-                y2="342.461"
-                gradientUnits="userSpaceOnUse"
-              >
-                <stop stopColor="#1595B6"></stop>
-                <stop offset="1" stopColor="#1595B6" stopOpacity="0"></stop>
-              </linearGradient>
-            </defs>
-          </svg>
+        <Image src="/icons/y_logo.png" width={50} height={50} alt="name logo" />
         </div>
         <ul className="mx-auto flex items-center justify-center gap-6 text-[#b0b2c3]">
           <li>
