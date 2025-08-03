@@ -104,7 +104,7 @@ const HeroSection = () => {
                 <ul className="ml-auto space-y-6 text-[#b0b2c3] absolute right-8">
                     <li>
                         <a
-                            href="https://www.linkedin.com/in/anuragsinghbam/"
+                            href="https://www.linkedin.com/in/yashmakwana/"
                             target="_blank"
                             aria-label="Linked in"
                         >
@@ -121,7 +121,7 @@ const HeroSection = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://twitter.com/anuragsinghbam" target="_blank" aria-label="Twitter">
+                        <a href="https://twitter.com/yashmakwana" target="_blank" aria-label="Twitter">
                             <svg
                                 className="w-7 hover:text-white"
                                 xmlns="http://www.w3.org/2000/svg"
@@ -135,7 +135,7 @@ const HeroSection = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/procodrr/" aria-label="Instagram">
+                        <a href="https://www.instagram.com/makwana_yash/" aria-label="Instagram">
                             <svg
                                 className="w-7 hover:text-white"
                                 xmlns="http://www.w3.org/2000/svg"
@@ -149,7 +149,7 @@ const HeroSection = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="mailto:anuragsinghbam@gmail.com" target="_blank" aria-label="Mail">
+                        <a href="mailto:yashmakwanab57@gmail.com" target="_blank" aria-label="Mail">
                             <svg
                                 className="w-7 hover:text-white"
                                 xmlns="http://www.w3.org/2000/svg"
@@ -163,7 +163,7 @@ const HeroSection = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.youtube.com/@procodrr" aria-label="Youtube">
+                        <a href="https://www.youtube.com/@yashmakwana" aria-label="Youtube">
                             <svg
                                 className="w-7 hover:text-white"
                                 xmlns="http://www.w3.org/2000/svg"

@@ -40,7 +40,7 @@ const Footer = () => {
         </div>
         <ul className="mx-auto flex items-center justify-center gap-6 text-[#b0b2c3]">
           <li>
-            <a href="https://www.linkedin.com/in/anuragsinghbam/" target="_blank" aria-label="Linked in">
+            <a href="https://www.linkedin.com/in/yashmakwana/" target="_blank" aria-label="Linked in">
               <svg
                 className="w-5 hover:text-white"
                 xmlns="http://www.w3.org/2000/svg"
@@ -54,7 +54,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/anuragsinghbam" target="_blank" aria-label="Twitter">
+            <a href="https://twitter.com/yashmakwana" target="_blank" aria-label="Twitter">
               <svg
                 className="w-5 hover:text-white"
                 xmlns="http://www.w3.org/2000/svg"
@@ -68,7 +68,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/procodrr/" aria-label="Instagram">
+            <a href="https://www.instagram.com/makwana_yash/" aria-label="Instagram">
               <svg
                 className="w-5 hover:text-white"
                 xmlns="http://www.w3.org/2000/svg"
@@ -82,7 +82,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="mailto:anuragsinghbam@gmail.com" target="_blank" aria-label="Mail">
+            <a href="mailto:yashmakwanab57@gmail.com" target="_blank" aria-label="Mail">
               <svg
                 className="w-5 hover:text-white"
                 xmlns="http://www.w3.org/2000/svg"
@@ -96,7 +96,7 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="https://www.youtube.com/@procodrr" aria-label="Youtube">
+            <a href="https://www.youtube.com/@yashmakwana" aria-label="Youtube">
               <svg
                 className="w-5 hover:text-white"
                 xmlns="http://www.w3.org/2000/svg"
